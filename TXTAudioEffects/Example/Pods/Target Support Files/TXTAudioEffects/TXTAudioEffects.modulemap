@@ -1,0 +1,6 @@
+framework module TXTAudioEffects {
+  umbrella header "TXTAudioEffects-umbrella.h"
+
+  export *
+  module * { export * }
+}

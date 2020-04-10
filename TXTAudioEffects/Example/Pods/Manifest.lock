@@ -1,0 +1,16 @@
+PODS:
+  - TXTAudioEffects (0.1.0)
+
+DEPENDENCIES:
+  - TXTAudioEffects (from `../TXTAudioEffects.podspec`)
+
+EXTERNAL SOURCES:
+  TXTAudioEffects:
+    :path: "../TXTAudioEffects.podspec"
+
+SPEC CHECKSUMS:
+  TXTAudioEffects: 0a50eea255d96c95e3a4a3625580d2b6e5027716
+
+PODFILE CHECKSUM: 363dec2b295b2c293ba402716ae9c95e16d5614d
+
+COCOAPODS: 1.8.4

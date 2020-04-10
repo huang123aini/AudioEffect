@@ -1,0 +1,24 @@
+{
+  "name": "TXTAudioEffects",
+  "version": "0.1.0",
+  "summary": "Audio effects",
+  "homepage": "http://local/TXTAudioEffects",
+  "license": "MIT",
+  "authors": {
+    "huangshiping": "aiya123aini@163.com"
+  },
+  "source": {
+    "git": "https://github.com/huangshiping/TXTAudioEffects.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": [
+    "TXTAudioEffects/Classes/*.{h,m}",
+    "TXTAudioEffects/Classes/audioeffects/sonic/sonic.{h,m}",
+    "TXTAudioEffects/Classes/audioeffects/reverb/reverb.{h,m}",
+    "TXTAudioEffects/Classes/audioeffects/biquad/*.{h,m}",
+    "TXTAudioEffects/Classes/audioeffects/vibrato/*.{h,m,mm}"
+  ]
+}

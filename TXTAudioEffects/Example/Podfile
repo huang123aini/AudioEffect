@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TXTAudioEffects_Example' do
+  pod 'TXTAudioEffects', :path => '../TXTAudioEffects.podspec'
+
+  target 'TXTAudioEffects_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
